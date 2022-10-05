@@ -1,0 +1,32 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    background-color: green;
+    text-align: center;
+    color: white;
+  
+}
+h1{
+    color: goldenrod;
+    
+}
+
+.sumsUp{
+    color: red;
+}
+
+#message-el{
+    font-style: italic;
+}
+
+button{
+    border-radius: 20px;
+    border: none;
+    padding: 5px;
+    background-color: goldenrod;
+    font-weight: bold;
+    color: green;
+    cursor: pointer;
+    width: 150px;
+    margin: 5px;
+}
